@@ -1,0 +1,11 @@
+.wn {
+    background-color: green;
+    color: antiquewhite;
+}
+table {
+    margin: 3em;
+}
+tr:nth-child(even),th {
+    background-color: green;
+    color: antiquewhite;
+}
