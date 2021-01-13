@@ -21,7 +21,7 @@
 * cooking
 ###### You can always count on me to lend a hand because the more you help others the more you learn. 
 ## A funny story 
-   I had an appointment at a lab for a project that I have accepted to partake in.  on a day that I thought was a day before the d day. I was at home sleeping when I received a call that the project is about to start in 20 minute  so I had to get up and hurried to the place. 
+   I had an appointment at a lab for a project that I have accepted to partake in.  on a day that I thought was a day before the d day.g I was at home sleeping when I received a call that the project is about to start in 20 minute  so I had to get up and hurried to the place. 
 #### TL;DR
 i had an appoitment but did not relised the day was due.
 
